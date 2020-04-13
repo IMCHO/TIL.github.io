@@ -6,6 +6,5 @@ Swift가 사용하고 있는 Sourcekit-LSP에 대한 학습 장소입니다. GSO
 [공식 Github 저장소](https://github.com/apple/sourcekit-lsp#sourcekit-lsp)를 참고하면서 진행 중입니다.
 
 ## Index
-배우면서 채워나갈 예정 
-
+1. [Introduction](https://github.com/IMCHO/TIL.github.io/blob/master/Sourcekit-LSP/Introduction.md)
 
